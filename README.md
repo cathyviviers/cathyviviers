@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Cat
 
-<!--
-**cathyviviers/cathyviviers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic designer in Pretoria, South Africa. I run [Cat's Creations](https://catscreations.co.za), a studio I started in 2016, and I work as Graphic Designer & Digital Specialist at Premium Brand Distributors.
 
-Here are some ideas to get you started:
+The design work is logos and brand identity, packaging, print, vehicle branding and social assets. GitHub is where the code side of that lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What's here
+
+**[catscreations.co.za](https://github.com/cathyviviers/catscreations.co.za)**
+The Cat's Creations website. Static HTML, CSS and JavaScript with a Git-backed Sveltia CMS, deployed on Vercel.
+
+### Tools
+
+Adobe Illustrator, CorelDRAW, Canva, and a fair amount of building alongside AI.
+
+### Find me
+
+- Studio: [catscreations.co.za](https://catscreations.co.za)
+- LinkedIn: [in/cathyviviers](https://www.linkedin.com/in/cathyviviers)
+- Facebook: [Cat's Creations](https://www.facebook.com/advertiseyourbrand)
+
+Looking for design work? Everything is on the studio site, or say hello on LinkedIn.
